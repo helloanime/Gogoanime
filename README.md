@@ -55,7 +55,7 @@
 
 ## Acknowledgements
 
-[anime-api](https://github.com/kirixenyt/anime-api) The api used for the need of this website. 
+[anime-api](https://gogoanime-anime-api.vercel.app) The api used for the need of this website. 
 
 ## Requirements
 --> Php environment (use .htaccess must be enabled in localhost) or Directly Upload the code on php supported hosting (No editing Required Just Upload and Enjoy)
